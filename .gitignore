@@ -1,0 +1,9 @@
+secret/
+bin/
+.env
+requests/
+node_modules/
+nbproject/
+api-requests/
+.eslintrc.json
+error_log/
